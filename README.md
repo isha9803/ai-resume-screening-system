@@ -18,7 +18,7 @@
 
 ---
 
-<img src="assets/screenshot.png" alt="App Screenshot" width="90%"/>
+<img src="assets/screenshot1.png" alt="App Screenshot" width="90%"/>
 
 </div>
 
@@ -119,28 +119,28 @@ Our AI-powered tool analyzes your resume against specific job descriptions and p
 **📤 Upload Section**
 > Upload your resume and paste the job description
 
-<img src="assets/screenshot-upload.png" alt="Upload Section" width="80%"/>
+<img src="assets/screenshot2-upload.png" alt="Upload Section" width="80%"/>
 
 ---
 
 **📊 Results Dashboard**
 > View your ATS score with detailed breakdown
 
-<img src="assets/screenshot-results.png" alt="Results" width="80%"/>
+<img src="assets/screenshot3-results.png" alt="Results" width="80%"/>
 
 ---
 
 **🛠️ Skills Analysis**
 > See matched and missing skills
 
-<img src="assets/screenshot-skills.png" alt="Skills Analysis" width="80%"/>
+<img src="assets/screenshot4-skills.png" alt="Skills Analysis" width="80%"/>
 
 ---
 
 **📥 PDF Report**
 > Download comprehensive analysis report
 
-<img src="assets/screenshot-report.png" alt="PDF Report" width="80%"/>
+<img src="assets/screenshot5-report.png" alt="PDF Report" width="80%"/>
 
 </details>
 
