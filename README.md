@@ -133,7 +133,7 @@ Our AI-powered tool analyzes your resume against specific job descriptions and p
 **🛠️ Skills Analysis**
 > See matched and missing skills
 
-<img src="assets/screenshot4s.png" alt="Skills Analysis" width="80%"/>
+<img src="assets/screenshot4.png" alt="Skills Analysis" width="80%"/>
 
 ---
 
