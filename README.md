@@ -140,7 +140,7 @@ Our AI-powered tool analyzes your resume against specific job descriptions and p
 **📥 PDF Report**
 > Download comprehensive analysis report
 
-<img src="assets/Screenshot 5.png" alt="PDF Report" width="80%"/>
+<img src="assets/Screenshot 9.png" alt="PDF Report" width="80%"/>
 
 </details>
 
